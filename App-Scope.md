@@ -1,5 +1,3 @@
-# visitor-app
-An app for visitors
 # Visitors Ticketing System Framework
 
 ## Table of Contents
